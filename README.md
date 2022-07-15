@@ -50,12 +50,12 @@ charity_data.csv
 
 ![A_L_D2](https://github.com/NingYang2022/Neural_Network_Charity_Analysis/blob/main/Images/A_L_D2.png?raw=true)
 
-- We took 3 steps to try to increase model performance
+### 3. Optimize the Model, 3 steps to try to increase model performance
 
   1. Added 40 more neurons to the first hidden layer.
 ![A_L_more_neurons](https://github.com/NingYang2022/Neural_Network_Charity_Analysis/blob/main/Images/A_L_more_neurons.png?raw=true)
 
-  2. Added one more hidden layer with 30 neurons.
+  2. Added one more hidden layer with 30 neurons.             
 ![A_L_more_layer](https://github.com/NingYang2022/Neural_Network_Charity_Analysis/blob/main/Images/A_L_more_layer.png?raw=true)
 
   3. changed the activation type to sigmoid for hidden layers and reLU for output layer
