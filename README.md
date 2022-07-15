@@ -38,7 +38,7 @@ charity_data.csv
   * SPECIAL_CONSIDERATIONS, 
   * ASK_AMT
 
--  the EIN and NAME cvariables should be removed from the input data?
+-  The EIN and NAME cvariables should be removed from the input data?
 
 ### 2. Compiling, Training, and Evaluating the Model
 
