@@ -12,6 +12,8 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 - Optimize the Model
 
+## <font color=#6495ED>Resources</font>
+
 ### <font color=#6495D>Data Source: </font>
 charity_data.csv
 
