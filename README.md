@@ -25,7 +25,7 @@ charity_data.csv
 
 ## <font color=#6495ED>Results</font> 
 ### 1. Data Preprocessing
-- the "IS_SUCCESSFUL"  variable is considered the target for your model.
+- The "IS_SUCCESSFUL"  variable is considered the target for your model.
 
 - The following variable(s) should be considered on features model: 
   * APPLICATION_TYPE, 
