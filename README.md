@@ -1,4 +1,4 @@
-# <font color=#6495ED>Neural Network Charity Analysis/font>
+# <font color=#6495ED>Neural Network Charity Analysis</font>
 
 ## <font color=#6495ED>Project Overview</font>
 
